@@ -35,7 +35,14 @@ The system is *instrumented* with:
    - The index is displayed in the upper right corner of the layout.  
    - Use the forward/reverse buttons in the lower left to step through iterations.  
    - Note changes in received power and BER display (eye diagram, Q factor, BER) with fiber length.
+## Tabulation
+![WhatsApp Image 2026-01-24 at 1 35 43 PM](https://github.com/user-attachments/assets/02e156db-f34f-4aca-a20b-146e826c8ab6)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e92031bc-9d1b-4c07-b938-7b59202ac088" />
+## Description:
+This OptiPerformer simulation displays the performance of a 90 km fiber link operating at a bit rate of 2.5 Gbps and a frequency of 193.1 THz. The results show a high-quality signal with a Max Q Factor of 44.545 and a wide-open eye diagram, which indicates minimal noise and jitter. At this specific distance, the optical power of -21.079 dBm is sufficient to maintain a zero Bit Error Rate (BER), ensuring successful data recovery without errors.
 
+## Result:
+ Thus the experimtent is completed successfully.
 ---
 
 
